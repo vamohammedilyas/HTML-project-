@@ -10,6 +10,11 @@ This project is a **learning resource for HTML basics**. It covers **multimedia,
 
 ---
 
+## Live Demo
+Check out the live project here: [HTML Basics Project](https://vamohammedilyas.github.io/HTML-project-/)
+
+---
+
 ## Features
 - Multimedia tags: images, videos, and iframes.  
 - Tables with merged cells and structured data.  
@@ -22,4 +27,4 @@ This project is a **learning resource for HTML basics**. It covers **multimedia,
 ## How to Use
 1. Clone or download the repository:  
    ```bash
-   git clone https://github.com/vamohammedilyas/HTML-Basics-Project.git
+   git clone https://github.com/vamohammedilyas/HTML-project-.git
